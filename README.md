@@ -1,5 +1,6 @@
+
 #HandyParking Core Development
-private use only
+
 
 ##Installing
 
@@ -35,3 +36,7 @@ In *development* mode, run:
 In production mode, run:
 
     npm start
+
+# HpCore
+Handy Parking Core
+
